@@ -1,3 +1,11 @@
-# BlazorCRUD
+## BlazorCRUD
 
-<h1 align="center">Employee CRUD using Blazor.</h1>
+<h2 align="center">Employee CRUD using Blazor.</h2>
+
+## Built With
+
+- C#
+- HTML
+- CSS
+- Blazor
+- SQL Server
